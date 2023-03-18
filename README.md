@@ -17,6 +17,9 @@ Download [python](https://www.python.org/downloads/)
 $ pip install -r requirments.txt
 ```
 
+## Config
+Change last line in Presearch.py for ur browser
+
 ## Use
 
 1. Windows + R (cmd)
